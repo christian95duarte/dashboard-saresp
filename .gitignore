@@ -1,0 +1,16 @@
+# Dados pessoais de estudantes — nunca versionar
+de-para-estudantes.csv
+*.xlsx
+*.xlsm
+*.csv
+
+# Documentos de trabalho e materiais do Power BI
+*.docx
+PowerBI_*
+
+# Edição do painel com nomes reais (uso interno da escola)
+dashboard-saresp.html
+
+# Sistema
+.DS_Store
+Thumbs.db
